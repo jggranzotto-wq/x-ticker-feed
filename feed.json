@@ -1,282 +1,272 @@
 {
-  "updated_at": "2026-11-01T18:39:22Z",
+  "updated_at": "2026-11-01T18:49:56Z",
   "query": "crypto",
   "posts": [
     {
-      "id": "2116963230916764025",
-      "text": "PULSECHAIN 101\n\nWhat is a Stablecoin?\n\nA stablecoin is a crypto token designed to track the value of another asset—often the U.S. dollar.\n\nBut stable doesn't mean risk-free.\n\nHow it's backed, issued and redeemed matters.\n\nUnderstand what backs what you hold. https://t.co/HF0jj9Fhnm",
-      "created_at": "2026-11-01T18:39:00.000Z",
-      "author_name": "Quattro Rico",
-      "username": "QuattroRico",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1765846934374465536/qwW7tKN8_bigger.jpg",
+      "id": "2116965889044250628",
+      "text": "@sadcrissy While the chart does its thing, games keep people around. Been building Crypto BalakCity for this exact crowd: a kiosk is 0.32 USDT and makes about 0.018 USDT a day right now. Free faucet to start: https://t.co/MElCCa93rT #BalakCity",
+      "created_at": "2026-11-01T18:49:33.000Z",
+      "author_name": "Balak City Oficial",
+      "username": "Balakappwin",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2116963158669565953/1aARWj6o_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/Balakappwin/status/2116965889044250628"
+    },
+    {
+      "id": "2116965880353767858",
+      "text": "Stop leaving your crypto on centralized exchanges like Coinbase, Uphold, Bybit, Robinhood, and Binance. Take control by moving your assets to a decentralized wallet and connecting it to a Web3 ecosystem vault. 🔐 \nFor guidance, comment “GUIDE. https://t.co/WURfpswEOS",
+      "created_at": "2026-11-01T18:49:31.000Z",
+      "author_name": "CHADSARTIN",
+      "username": "CHADSARTIN__COM",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2060357007702421511/oBthqHct_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HP2CMwJbcAAeliB.jpg"
+        "https://pbs.twimg.com/amplify_video_thumb/2116965382430818304/img/5grhdSanRe-vA33I.jpg"
       ],
-      "url": "https://x.com/QuattroRico/status/2116963230916764025"
+      "url": "https://x.com/CHADSARTIN__COM/status/2116965880353767858"
     },
     {
-      "id": "2116963230731915739",
-      "text": "@Xaif_Crypto @cz_binance The reason it’s so prevalent in crypto markets is transparency. It’s happening in trad markets as well at a similar scale but with a larger history.\n\nThe difference? The red boxes no one is allowed to see. Take naked short selling for instance. One example\n\nMost likely happening",
-      "created_at": "2026-11-01T18:39:00.000Z",
-      "author_name": "Byrdsbie",
-      "username": "byrdsbie",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1518966255004307457/k-nijK-b_bigger.jpg",
+      "id": "2116965868156449256",
+      "text": "@fiyinodebunmi thats quite definite, with how crypto is, a lot of thinsg might come back",
+      "created_at": "2026-11-01T18:49:28.000Z",
+      "author_name": "Ozioma Onukogu | RubikconNexus",
+      "username": "OnukoguFavour",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2113442796686221313/fhWthQ2__bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/byrdsbie/status/2116963230731915739"
+      "url": "https://x.com/OnukoguFavour/status/2116965868156449256"
     },
     {
-      "id": "2116963228286607533",
-      "text": "@BitgetPL 3️⃣ The moment I knew crypto was for me was when I realized that blockchain could change the future of finance 💡",
-      "created_at": "2026-11-01T18:38:59.000Z",
-      "author_name": "DOUBT 💫",
-      "username": "prom8193",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2024090880789934080/Cn9L89pg_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/prom8193/status/2116963228286607533"
-    },
-    {
-      "id": "2116963225116017133",
-      "text": "Getting mad over a crypto gambling ad is hilarious https://t.co/tVO06nJ9pF",
-      "created_at": "2026-11-01T18:38:58.000Z",
-      "author_name": "wAv",
-      "username": "producethewAv1",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2049582112576057344/0Mcs2Ac9_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/producethewAv1/status/2116963225116017133"
-    },
-    {
-      "id": "2116963219608850858",
-      "text": "CVE-2026-106074\n\nNode.js crypto entropy cache reuse. The internal entropy caches used by crypto.randomUUID() and crypto.randomInt() are serialized into startup snapshots and single executable applications. Processes launched from the same snapshot repeat the same values until the",
-      "created_at": "2026-11-01T18:38:57.000Z",
-      "author_name": "Abhinav Singwal",
-      "username": "yogsec",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2109154379949584384/KQVSFk3R_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/yogsec/status/2116963219608850858"
-    },
-    {
-      "id": "2116963202290667682",
-      "text": "@jayhinz The best crypto products make blockchain complexity invisible and let the actual experience speak for itself",
-      "created_at": "2026-11-01T18:38:53.000Z",
-      "author_name": "ᴏᴡᴀᴋɪ_D.eth",
-      "username": "abrarayuv_clone",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2115135602933088256/zJV4JQ6t_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/abrarayuv_clone/status/2116963202290667682"
-    },
-    {
-      "id": "2116963198616375772",
-      "text": "Arkham is Elysium’s launchpad.\n\nMost people spot a coin too late. We read the smart money on-chain, live — which winning wallets are buying, where whales are moving in, as it happens. Signal, not advice.\n\nSee who’s really buying, before the crowd does.\n\nhttps://t.co/Rr5wPAdQ71",
-      "created_at": "2026-11-01T18:38:52.000Z",
-      "author_name": "arkhampad",
-      "username": "arkhampad",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2115880901984792576/HerErYoK_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/arkhampad/status/2116963198616375772"
-    },
-    {
-      "id": "2116963190127178211",
-      "text": "@eth_exy Crypto wants to suck your...... it'll do anything",
-      "created_at": "2026-11-01T18:38:50.000Z",
-      "author_name": "LT Dan",
-      "username": "johnAndersm9th",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2111570268137365504/8d5vQUBt_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/johnAndersm9th/status/2116963190127178211"
-    },
-    {
-      "id": "2116963186918445475",
-      "text": "🚨 XRP HOLDERS, DON’T LET MARKET FEAR MAKE YOUR DECISIONS!\n\nVolatility is part of crypto. Stay focused, understand what you hold, and never let short-term panic control your long-term strategy.\n\nAre you HOLDING your XRP or selling at these levels? \n\n#XRP #XRPArmy #Crypto #USA https://t.co/WaDoWVSfic",
-      "created_at": "2026-11-01T18:38:49.000Z",
-      "author_name": "MicheleKirby X",
-      "username": "MechelKirbyX",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2116906458021273600/GrV5n-tr_bigger.jpg",
+      "id": "2116965864536994088",
+      "text": "🇺🇸 FBI confirms North Korea is responsible for the $6,300,000,000 crypto hack.\n\nOne Binance hack = 19% of North Korea’s economy ($33.8B) https://t.co/25t2Dn2wvn https://t.co/eAxg0sl35M",
+      "created_at": "2026-11-01T18:49:28.000Z",
+      "author_name": "DropsTab",
+      "username": "Dropstab_com",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1399106045226672130/-yZqAe23_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/amplify_video_thumb/2116962864858632192/img/w6NEQ3QUf1DOLyZi.jpg"
+        "https://pbs.twimg.com/media/HWD4_gzXUAAQ0O7.jpg"
       ],
-      "url": "https://x.com/MechelKirbyX/status/2116963186918445475"
+      "url": "https://x.com/Dropstab_com/status/2116965864536994088"
     },
     {
-      "id": "2116963183533388127",
-      "text": "The global crypto market lost more than $300 billion in October as Bitcoin and Ether fell amid heavy selling.\nRead more… https://t.co/LgX1BKQA2p \n#Shafaq_news #Bitcoin #Crypto #Ethereum #Binance https://t.co/E8e92a8peL",
-      "created_at": "2026-11-01T18:38:48.000Z",
-      "author_name": "SHAFAQ NEWS ENGLISH",
-      "username": "SHAFAQNEWSENG",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1886999721039835136/PKfuQMqY_bigger.jpg",
+      "id": "2116965861130973669",
+      "text": "🚨 B000000M! WHAT IS HAPPENING BEFORE OCTOBER 31?! 👀\n\nIs Trump really sending a message that could affect the crypto market and XRP holders?\n\nThe rumors are spreading, but where are the confirmed facts? Don’t fall for misleading headlines—check the original announcement before https://t.co/ZmcMwpnEGW",
+      "created_at": "2026-11-01T18:49:27.000Z",
+      "author_name": "Warriors Community X",
+      "username": "warriors_team11",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2113046596006903808/ThgyWs4F_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWD2yvgXAAAFGxy.jpg"
+        "https://pbs.twimg.com/amplify_video_thumb/2116965818525188096/img/D12Mb5qRnDmUav_g.jpg"
       ],
-      "url": "https://x.com/SHAFAQNEWSENG/status/2116963183533388127"
+      "url": "https://x.com/warriors_team11/status/2116965861130973669"
     },
     {
-      "id": "2116963182140953014",
-      "text": "binancecoin:native \n🚀🚀 The Power of the \"Automatic Harmonic Patterns Detection# indicator                   \n🎯 Trading with this indicator is now very easy; all you have to do is set an alert.                      \n🎯 This indicator is also very successful with crypto. #btc https://t.co/nRpi4j3Ub7",
-      "created_at": "2026-11-01T18:38:48.000Z",
-      "author_name": "MorningStar",
-      "username": "Morning_Starr6",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2018772322380115968/5xORm_h8_bigger.jpg",
+      "id": "2116965857427673214",
+      "text": "Trend → On-chain transparency matters in crypto. Why It Matters → Verifiable information helps people separate facts from hype. JAGER Opportunity → Share clear updates, explain what can be checked, and encourage Hunters to verify before sharing widely.\n$JAGER #BNB100K #JAGER https://t.co/dal8dJ9F7Q",
+      "created_at": "2026-11-01T18:49:26.000Z",
+      "author_name": "CoreNexus",
+      "username": "oreocore586",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2090422105724911618/NcF0XOfw_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWD2vzAXwAAuufE.jpg"
+        "https://pbs.twimg.com/media/HWD5OWqaAAAjJjx.jpg"
       ],
-      "url": "https://x.com/Morning_Starr6/status/2116963182140953014"
+      "url": "https://x.com/oreocore586/status/2116965857427673214"
     },
     {
-      "id": "2116963175027392676",
-      "text": "I’ve been receiving numerous DMs from people wanting to know how to establish their Quantum accounts, safeguard their crypto assets, 401(k), and IRA, and transition their fiat currency into the new digital ISO currencies, XRP and XLM.\n\nIf you need step-by-step instructions,",
-      "created_at": "2026-11-01T18:38:46.000Z",
-      "author_name": "Q MASTER POOL",
-      "username": "QMasterPool1",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2030680868537126912/sMnDOB_-_bigger.jpg",
+      "id": "2116965854411927737",
+      "text": "The finance boys have being raping bitcoin and crypto as a whole for years, it’s like their tax collection to the underworld and underprivileged . this is giving crypto a hand in their pockets again. https://t.co/um8H14Akwa",
+      "created_at": "2026-11-01T18:49:25.000Z",
+      "author_name": "Pizazz",
+      "username": "Bolaolanrewajum",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2115119577122193408/qMl9UO0J_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/QMasterPool1/status/2116963175027392676"
+      "url": "https://x.com/Bolaolanrewajum/status/2116965854411927737"
     },
     {
-      "id": "2116963163962851523",
-      "text": "🚨 CRYPTO WARNING: Be cautious with #FynoraExchange if deposits succeed but withdrawals remain pending.\n❌ Don’t pay unexplained release charges. Keep proof.\n💬 We trace wallet activity and assess possible withdrawal options.\n\n#CryptoRecovery #CryptoScam #RecoverCrypto https://t.co/BtAjCQgzLq",
-      "created_at": "2026-11-01T18:38:44.000Z",
-      "author_name": "Paul Bradford Cryptorecovery Expert",
-      "username": "paulrecover",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2035414918858428416/pBPq0rns_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWD2xYgWcAAXShy.jpg"
-      ],
-      "url": "https://x.com/paulrecover/status/2116963163962851523"
-    },
-    {
-      "id": "2116963159613616136",
-      "text": "Had a solid time at Bubble Crypto Cats #31\nFishing session in the swamp, steady pace and a clean evening overall @CryptoCatsApe @OthersideMeta #Bubble_CATS_31 https://t.co/LbUCvNQ6sq",
-      "created_at": "2026-11-01T18:38:43.000Z",
-      "author_name": "qysibepoto",
-      "username": "qysibepoto",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1971983466607620096/NuBMmkTL_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWD2D4PXwAAhzCk.jpg",
-        "https://pbs.twimg.com/media/HWD2GSeW8AUM1ZH.jpg",
-        "https://pbs.twimg.com/media/HWD2IgOWoAAZHaP.jpg",
-        "https://pbs.twimg.com/media/HWD2K3pXcAAXXzj.jpg"
-      ],
-      "url": "https://x.com/qysibepoto/status/2116963159613616136"
-    },
-    {
-      "id": "2116963157151277467",
-      "text": "@BitgetPL 1️⃣ Bitcoin is like gold because both reward the people who understand their value and have the patience to hold 🟠💎\n\n2️⃣ I choose Bitget because I want an exchange that makes my crypto journey easier while I focus on finding my next opportunity 🎯\n\n3️⃣ The moment I knew crypto was",
-      "created_at": "2026-11-01T18:38:42.000Z",
-      "author_name": "₥₳VⱤłӾ 𓋹",
-      "username": "mavrix006",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2097777635904700416/G_-p7fAM_bigger.jpg",
+      "id": "2116965845142552821",
+      "text": "@hanturksc absolutely, knowledge is key in crypto.",
+      "created_at": "2026-11-01T18:49:23.000Z",
+      "author_name": "Money Bunny",
+      "username": "MoneyCrptBunny",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2010368646145556481/LXeqecLj_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/mavrix006/status/2116963157151277467"
+      "url": "https://x.com/MoneyCrptBunny/status/2116965845142552821"
     },
     {
-      "id": "2116963155167572264",
-      "text": "Crypto market won't bottom until the stablecoin market cap starts going up\n\nWell, that's not true\n\nLast cycle, Stablecoin MCap was almost flat until Q3 2023 and yet the crypto market rallied 80% from the bottom https://t.co/ruHHvAP9IT",
-      "created_at": "2026-11-01T18:38:42.000Z",
-      "author_name": "Sweep",
-      "username": "0xSweep",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2107581555367612416/qW1azEWU_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWD2wthbgAALNOy.jpg"
-      ],
-      "url": "https://x.com/0xSweep/status/2116963155167572264"
-    },
-    {
-      "id": "2116963152613011623",
-      "text": "U.S. Stocks vs Crypto\nhttps://t.co/Qhh0PFUAzH https://t.co/WjQm6Xobmx",
-      "created_at": "2026-11-01T18:38:41.000Z",
-      "author_name": "Moruk The King Boss",
-      "username": "moruk100x",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1978173405284225024/9OfUWyY-_bigger.png",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWD2w0mWUAEY3wj.jpg"
-      ],
-      "url": "https://x.com/moruk100x/status/2116963152613011623"
-    },
-    {
-      "id": "2116963152050937929",
-      "text": "New month. New chapter.\n\nOctober closed with the largest crypto security incident on record. November opens with Binance restarting withdrawals in phases and the market holding near $78k.\n\nThe noise is loud. The long-term build continues.\n\nWhat’s your focus for November:",
-      "created_at": "2026-11-01T18:38:41.000Z",
-      "author_name": "Christopher",
-      "username": "chriisenis",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1978869335335534592/_x2cD9cE_bigger.jpg",
+      "id": "2116965844190462310",
+      "text": "@Sylphie_lyn Independent thinking builds stronger crypto communities",
+      "created_at": "2026-11-01T18:49:23.000Z",
+      "author_name": "Emmanuel",
+      "username": "0xemmy__G",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2088249667192532992/D64MAPdp_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/chriisenis/status/2116963152050937929"
+      "url": "https://x.com/0xemmy__G/status/2116965844190462310"
     },
     {
-      "id": "2116963148376809748",
-      "text": "🇵🇱Kolejne ataki kryptodyktatury na naszych dziennikarzy. Tym razem red @DHolecka i jej Mąż Krzysztof. Zatrzymany, zakuty w kajdanki na cmentarzu… Każdy z funkcjonariuszy policji, który dopuszcza się bezprawnych działań wobec naszych Dziennikarzy lub Widzów będzie przez nas https://t.co/A9IpAaZ4AB",
-      "created_at": "2026-11-01T18:38:40.000Z",
-      "author_name": "michal.rachon",
-      "username": "michalrachon",
-      "avatar_url": "https://pbs.twimg.com/profile_images/884189886269587461/VwCEuUEB_bigger.jpg",
+      "id": "2116965842852139396",
+      "text": "@RahulXBTC @tryquantio Fascinating how Quant AI unifies crypto tools and AI integration",
+      "created_at": "2026-11-01T18:49:22.000Z",
+      "author_name": "Wizard",
+      "username": "wilsonzz9897",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2051666663234228230/fYeX23Md_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/wilsonzz9897/status/2116965842852139396"
+    },
+    {
+      "id": "2116965842676068534",
+      "text": "@ShuxBroh @Tangem Love the seedless setup, I think this best way to store crypto",
+      "created_at": "2026-11-01T18:49:22.000Z",
+      "author_name": "UC",
+      "username": "uc1web3",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2112243014722539520/uSQscN4X_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/uc1web3/status/2116965842676068534"
+    },
+    {
+      "id": "2116965839979335742",
+      "text": "@anomaaketewa @tech_twi U see how stupid u are. Why didn’t MTN make it possible for the guy to get his crypto back after claiming it was a scam ? Sia",
+      "created_at": "2026-11-01T18:49:22.000Z",
+      "author_name": "GOOD NEWS 🫆",
+      "username": "GOODNEWS_369",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2070334001928081408/5QYHdme1_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/GOODNEWS_369/status/2116965839979335742"
+    },
+    {
+      "id": "2116965831674589288",
+      "text": "Bitcoin remains the foundation of the crypto market.\n\nBut the next wave of innovation could come from the ecosystems building around it. https://t.co/i8lLJDOb6P",
+      "created_at": "2026-11-01T18:49:20.000Z",
+      "author_name": "BTC THENOS",
+      "username": "BTChenos",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1980615615954964480/mqG_tKUR_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWD2wi5WMAAOANW.jpg",
-        "https://pbs.twimg.com/media/HWD2wi2XgAA8LS5.jpg"
+        "https://pbs.twimg.com/tweet_video_thumb/HWD5M47bEAAGtha.jpg"
       ],
-      "url": "https://x.com/michalrachon/status/2116963148376809748"
+      "url": "https://x.com/BTChenos/status/2116965831674589288"
     },
     {
-      "id": "2116963147647000624",
-      "text": "You name your babe ‘Lilac Heaven’\nAfter your iPhone 11\n“Crypto forever” screams your stupid boyfriend\nFuck you, Kevin https://t.co/kVGgt5kYTD",
-      "created_at": "2026-11-01T18:38:40.000Z",
-      "author_name": "earthmover🪽་༘࿐𝄞𝄢♱⃓",
-      "username": "eve_tempest_",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2114454616628736000/cg62uCeH_bigger.jpg",
+      "id": "2116965818085101681",
+      "text": "@OverClockWTF Crypto heads need this alpha 🔥DM me.📥",
+      "created_at": "2026-11-01T18:49:17.000Z",
+      "author_name": "Crypto Tycoon",
+      "username": "DaCryptoTycoon",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2073604313151389696/fxgf4Ned_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/DaCryptoTycoon/status/2116965818085101681"
+    },
+    {
+      "id": "2116965816377999703",
+      "text": "Give Me Some Idea I Have Only 110$ For Invest \n\nEverything I Have.......\n\nVideo Editing Skill\nSpamming ( I Can Ban/Unban Any Social Media Account Except LinkedIn)\nA Community On Telegram (27,000) Subscriber \n\n#Binance #Crypto #AI https://t.co/Mnu0HbuTyb",
+      "created_at": "2026-11-01T18:49:16.000Z",
+      "author_name": "𝗥𝗔𝗛𝗠𝗔𝗡",
+      "username": "Rahman10_9",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1869038453490634752/cV0Dbbiw_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWD2wxqWcAAT3FL.jpg"
+        "https://pbs.twimg.com/media/HWD4JCmbcAAnDv8.jpg"
       ],
-      "url": "https://x.com/eve_tempest_/status/2116963147647000624"
+      "url": "https://x.com/Rahman10_9/status/2116965816377999703"
     },
     {
-      "id": "2116963129951486142",
-      "text": "@gongfufinance Excellent performance. The project is gaining increasing interest in the crypto world. Including in our SEVEN LAB community.",
-      "created_at": "2026-11-01T18:38:36.000Z",
-      "author_name": "Сергей Каныгин",
-      "username": "sergeykanygin",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2116961470860636160/qjMtTeNx_bigger.jpg",
+      "id": "2116965812611223902",
+      "text": "@B_msolutions @agentdojo The next phase of crypto should be interesting.",
+      "created_at": "2026-11-01T18:49:15.000Z",
+      "author_name": "Aodus 🤑🤠 l",
+      "username": "Aodus2",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1667812044014342144/pzfZ4xy-_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/sergeykanygin/status/2116963129951486142"
+      "url": "https://x.com/Aodus2/status/2116965812611223902"
     },
     {
-      "id": "2116963124473479283",
-      "text": "One follower crypto bot getting mad 😂🤣😂 https://t.co/BrK2jLQxjl",
-      "created_at": "2026-11-01T18:38:34.000Z",
-      "author_name": "𝕮𝖆𝖕𝖙𝖆𝖎𝖓 𝕭𝖔𝖆𝖙𝖍𝖔𝖔𝖛𝖊𝖓",
-      "username": "DarrenJame6bla",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2113737449721475072/BYEJ44Ps_bigger.jpg",
+      "id": "2116965811269320985",
+      "text": "Why I'm holding/accumulating Bitcoin/Crypto here:\n\nVery important fact. \nOnly about 10% of the time, Bitcoin makes the big moves. The other 90%, it's grinding, chopping sideways or going down.\n\nThose parabolic moves up are what we're here for. And they happen quickly and with",
+      "created_at": "2026-11-01T18:49:15.000Z",
+      "author_name": "Kevin W. | Macro & Crypto",
+      "username": "kevinw_crypto",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2068707273459769345/w31L9dCa_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/DarrenJame6bla/status/2116963124473479283"
+      "url": "https://x.com/kevinw_crypto/status/2116965811269320985"
     },
     {
-      "id": "2116963120295862748",
-      "text": "@aleksander_100 @bagel_win @renaissxyz You know how crypto work hah",
-      "created_at": "2026-11-01T18:38:33.000Z",
-      "author_name": "CryptoNotes",
-      "username": "_CryptoNotes_",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1638984046725279744/twzL4lCf_bigger.jpg",
+      "id": "2116965807330881661",
+      "text": "@sled_o literally everyday in crypto lol",
+      "created_at": "2026-11-01T18:49:14.000Z",
+      "author_name": "seph",
+      "username": "Sephbtc",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2074281196431753216/oCcvIiS__bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/_CryptoNotes_/status/2116963120295862748"
+      "url": "https://x.com/Sephbtc/status/2116965807330881661"
     },
     {
-      "id": "2116963115799654541",
-      "text": "🚨 CRYPTO ALERT: Review #TervionDigital if promised withdrawals keep getting postponed.\n❌ Keep transaction IDs and payment evidence.\n💬 We trace fund movements and assess possible withdrawal options.\n\n#CryptoRecovery #CryptoScam #RecoverCrypto #InvestmentScam https://t.co/8tTKgqchRy",
-      "created_at": "2026-11-01T18:38:32.000Z",
-      "author_name": "Paul Bradford Cryptorecovery Expert",
-      "username": "paulrecover",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2035414918858428416/pBPq0rns_bigger.jpg",
+      "id": "2116965805057282500",
+      "text": "@yanis_himself @OxShamss 6.8T is just the size of the noise files. The weights are pure synthetic RNG garbage (dozens of tensors regenerate bit-for-bit from SHA-256 of the tensor name via NumPy). Zero trained knowledge.\n\nNo malware: safetensors can't embed code, and the two Python files are clean",
+      "created_at": "2026-11-01T18:49:13.000Z",
+      "author_name": "Grok",
+      "username": "grok",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/grok/status/2116965805057282500"
+    },
+    {
+      "id": "2116965791190917617",
+      "text": "@DotComParker Imagine a dog scrolling Crypto Twitter at 3 a.m. What would it post? 😂\nProbably something like BITDOG.\nCA: EfcKLYoyTMUn7PT8BmvXDjQLRCcaD1EBYXgtMHAqpump\n@BITDOGlu\n#CryptoTwitter #Solana $BITDOG https://t.co/ttmK9Cteie",
+      "created_at": "2026-11-01T18:49:10.000Z",
+      "author_name": "Nuel cyrpt🌏♨️",
+      "username": "itsmedaniellle",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1994796339620712448/jANBFZ7f_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWD2ucYXMAAEV_C.jpg"
+        "https://pbs.twimg.com/media/HWD5KSbXgAENcEC.jpg"
       ],
-      "url": "https://x.com/paulrecover/status/2116963115799654541"
+      "url": "https://x.com/itsmedaniellle/status/2116965791190917617"
     },
     {
-      "id": "2116963106056544293",
-      "text": "@eliz883 Crypto deserves platforms that put users and security above profits.",
-      "created_at": "2026-11-01T18:38:30.000Z",
-      "author_name": "Progress Notes",
-      "username": "ProgressNotes10",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2115902996156456960/47WGrhaJ_bigger.jpg",
+      "id": "2116965781359710635",
+      "text": "@LokiCripto El reinicio crypto?",
+      "created_at": "2026-11-01T18:49:08.000Z",
+      "author_name": "CryptoRob",
+      "username": "CryptoRob35",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2047969768578408448/UKLTx4TS_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/ProgressNotes10/status/2116963106056544293"
+      "url": "https://x.com/CryptoRob35/status/2116965781359710635"
+    },
+    {
+      "id": "2116965776384983422",
+      "text": "Start earning $MID Tokens for free! 💎 I’m inviting you to join Midas Mining. Use my Referral Code: 01OA03 to start earning crypto rewards daily from your phone. Get the app here: https://t.co/lGR1hkHfIJ 🚀🌍",
+      "created_at": "2026-11-01T18:49:07.000Z",
+      "author_name": "Olam_az",
+      "username": "Olam_az",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1403679187748241412/NVMr0M0L_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/Olam_az/status/2116965776384983422"
+    },
+    {
+      "id": "2116965774258512000",
+      "text": "Are you ready  for next week?\nWhile most CTs are panicking we are making  nice money in CTA #BTC #ETH #Crypto \nto join  use this link 👉: https://t.co/TQS7YbmiDb https://t.co/Ys6EpGcboO",
+      "created_at": "2026-11-01T18:49:06.000Z",
+      "author_name": "Crypto Traders Arena",
+      "username": "CryptoTArena",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1746135318871289856/LV-L0ySP_bigger.jpg",
+      "media_urls": [
+        "https://pbs.twimg.com/media/HWD4TIRWkAA_qQE.jpg"
+      ],
+      "url": "https://x.com/CryptoTArena/status/2116965774258512000"
+    },
+    {
+      "id": "2116965772056777165",
+      "text": "Soooo glad I never had crypto in Binance",
+      "created_at": "2026-11-01T18:49:06.000Z",
+      "author_name": "Wes",
+      "username": "HHNLifeOrlando",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2116933325008891904/hqboZJ-W_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/HHNLifeOrlando/status/2116965772056777165"
+    },
+    {
+      "id": "2116965769284379051",
+      "text": "Start earning $MID Tokens for free! 💎 I’m inviting you to join Midas Mining. Use my Referral Code: 7I52A0 to start earning crypto rewards daily from your phone. Get the app here: https://t.co/UZBXl6tQkb 🚀🌍",
+      "created_at": "2026-11-01T18:49:05.000Z",
+      "author_name": "Ahmad Abubakar",
+      "username": "ahmadeeny35",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2024353510922260481/fKC3P8Eq_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/ahmadeeny35/status/2116965769284379051"
     }
   ]
 }

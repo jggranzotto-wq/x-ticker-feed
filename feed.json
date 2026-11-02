@@ -1,279 +1,274 @@
 {
-  "updated_at": "2026-11-02T00:01:46Z",
+  "updated_at": "2026-11-02T00:15:19Z",
   "query": "crypto",
   "posts": [
     {
-      "id": "2117044358570721482",
-      "text": "💎 Discover DerekMercer $DRMR on Solana! Explore crypto, memecoin and airdrop details using $SOL \n\n CA=7Xgc5RacHtGzfhw2HukUBk5V986yBbvshr7rrCoopump \n\n https://t.co/LMPXEhX99G",
-      "created_at": "2026-11-02T00:01:22.000Z",
+      "id": "2117047785212256678",
+      "text": "@Booksey Isn’t Coinbase’s $250K FDIC coverage for eligible deposits not crypto",
+      "created_at": "2026-11-02T00:14:59.000Z",
+      "author_name": "Aminul (아미눌)",
+      "username": "1nxnn__",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2083507540361658368/0FuieU1G_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/1nxnn__/status/2117047785212256678"
+    },
+    {
+      "id": "2117047783391654230",
+      "text": "@KriptoK \"Losing your seed phrase is scary, but 'withdrawals paused' on CEXs is a systemic nightmare. That’s exactly why I stick to non-custodial platforms like @KriptoK. Your keys, your crypto. 🎃🔐\"",
+      "created_at": "2026-11-02T00:14:59.000Z",
+      "author_name": "Termux-Turbo",
+      "username": "TermuxTurbo",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2097801313035939840/fUxbEAMd_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/TermuxTurbo/status/2117047783391654230"
+    },
+    {
+      "id": "2117047775837999444",
+      "text": "@CurveFinance Mfs all hacked crypto got recovered!\nCurve eating shit\nSoon delist🤮🤮",
+      "created_at": "2026-11-02T00:14:57.000Z",
+      "author_name": "ali",
+      "username": "ali_71az",
+      "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+      "media_urls": [],
+      "url": "https://x.com/ali_71az/status/2117047775837999444"
+    },
+    {
+      "id": "2117047772146696624",
+      "text": "@voiddmp4 Cancel him because he is annoying and does some type of scammer crypto sports gambling nonsense and is always doing fake giveaways.  I get the weirdest vibes seeing that dudes posts?  I don't get the target audience.",
+      "created_at": "2026-11-02T00:14:56.000Z",
+      "author_name": "Smokémon",
+      "username": "Smokemon42O",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2065580152558436352/op5o0gdh_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/Smokemon42O/status/2117047772146696624"
+    },
+    {
+      "id": "2117047769680527463",
+      "text": "PRESIDENT TRUMP:\n\n ''Bitcoin and crypto will skyrocket like never before, beyond your expectations.'' https://t.co/EZM242VMAt",
+      "created_at": "2026-11-02T00:14:55.000Z",
+      "author_name": "XRP & Digital Assets Insight",
+      "username": "Digital_nsight",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2116854268342796288/ZeZi6zfO_bigger.jpg",
+      "media_urls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2117047708057849856/img/i9o1dszW1tz4l8zo.jpg"
+      ],
+      "url": "https://x.com/Digital_nsight/status/2117047769680527463"
+    },
+    {
+      "id": "2117047767000621411",
+      "text": "在注意到ETH和BTC之间居然可以互换（通过THORchain），这种“跨越区块链边界的密码学分布式事务交易协议”存在abort的设计漏洞，同时由于crypto最终以美元为锚，单方向的大额买入卖出交易会导致价格波动，最终导致集中性控制。",
+      "created_at": "2026-11-02T00:14:55.000Z",
+      "author_name": "Zhixiang",
+      "username": "ctengctsh",
+      "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
+      "media_urls": [],
+      "url": "https://x.com/ctengctsh/status/2117047767000621411"
+    },
+    {
+      "id": "2117047756636242121",
+      "text": "⚠️ Please be aware: We have NOT launched any token, airdrop, or crypto offering.\n\nAny account or project using our name to promote one is impersonating us and is not affiliated with us.\n\nStay safe, avoid suspicious links, and always verify announcements through our official",
+      "created_at": "2026-11-02T00:14:52.000Z",
+      "author_name": "Brahe",
+      "username": "useBrahe",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2117040456689209344/3kHnUAGy_bigger.png",
+      "media_urls": [],
+      "url": "https://x.com/useBrahe/status/2117047756636242121"
+    },
+    {
+      "id": "2117047752379240754",
+      "text": "Lazarus Group stal totaal $11,87 miljard aan crypto dlvr.​it/TW8Jtw https://t.co/fzedZp93Bu",
+      "created_at": "2026-11-02T00:14:51.000Z",
+      "author_name": "Drimble",
+      "username": "drimble",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1749467195464126464/JaUAA218_bigger.jpg",
+      "media_urls": [
+        "https://pbs.twimg.com/media/HWFDthRakAAoRRA.jpg"
+      ],
+      "url": "https://x.com/drimble/status/2117047752379240754"
+    },
+    {
+      "id": "2117047737740902870",
+      "text": "Ready to take more control of your digital assets? Consider moving your crypto from centralized exchanges into a decentralized wallet connected to a Web3 ecosystem vault. Comment “GUIDE” to get started. https://t.co/4pfO9xGKm7",
+      "created_at": "2026-11-02T00:14:48.000Z",
+      "author_name": "CHADSARTIN",
+      "username": "CHADSARTIN__COM",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2060357007702421511/oBthqHct_bigger.jpg",
+      "media_urls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2117047527052660737/img/C_yOkSBkubmgeIM7.jpg"
+      ],
+      "url": "https://x.com/CHADSARTIN__COM/status/2117047737740902870"
+    },
+    {
+      "id": "2117047737137217974",
+      "text": "Follow the Way and remain steadfast.\nWe do not wield the sickle; we only sow flowers.\nLet the \"chives\" no longer be cut down; let consensus bloom naturally.\n\nEnvo: Pioneering new frontiers in the crypto world.#DYOR#ENVO https://t.co/IoOfenDeAT",
+      "created_at": "2026-11-02T00:14:48.000Z",
+      "author_name": "Lishuiyuan",
+      "username": "Lishuiyuany6a8",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2114679187755941888/xG7SGUgt_bigger.jpg",
+      "media_urls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2117047697136050176/img/zeSDxk-6nYyLc-H1.jpg"
+      ],
+      "url": "https://x.com/Lishuiyuany6a8/status/2117047737137217974"
+    },
+    {
+      "id": "2117047734809383287",
+      "text": "Korea’s FIU just asked to block access to 2 unregistered crypto operators. Not a ban on crypto itself, just on businesses that skipped registration with the regulator.\n\nThe tell is enforcement moving from warnings to cutting off the pipe.",
+      "created_at": "2026-11-02T00:14:47.000Z",
+      "author_name": "Lia",
+      "username": "Yxttky",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1964519284262252545/LueUv-Lc_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/Yxttky/status/2117047734809383287"
+    },
+    {
+      "id": "2117047716836753911",
+      "text": "@Next100XGEMS Crypto can make transactions harder to trace, but corruption always leaves a trail. Accountability matters, no matter the payment method. 👀",
+      "created_at": "2026-11-02T00:14:43.000Z",
+      "author_name": "moneyhunter",
+      "username": "bantingtulang_",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2115586634628710400/i0WhxnyC_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/bantingtulang_/status/2117047716836753911"
+    },
+    {
+      "id": "2117047701216842110",
+      "text": "🚨 CRYPTO SECURITY UNDER SCRUTINY!\n\nThe Binance hack is putting crypto exchange security back under the microscope as U.S. regulators push for stricter oversight.\n\nIf crypto wants to become part of the global financial system, security, transparency, and investor protection #XRP",
+      "created_at": "2026-11-02T00:14:39.000Z",
+      "author_name": "Warrior Community X",
+      "username": "WarriorCommunX",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2112898066453757952/7ieShf78_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/WarriorCommunX/status/2117047701216842110"
+    },
+    {
+      "id": "2117047693537423642",
+      "text": "@twin3_ai As the crypto ecosystem grows, knowing who we are in the digital world becomes increasingly important.\n\nhttps://t.co/b1nelZ5NMF focuses on the intersection of AI and Web3, opening new",
+      "created_at": "2026-11-02T00:14:37.000Z",
+      "author_name": "socnho",
+      "username": "lechau993510",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2108912338976043009/CXg3dYRN_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/lechau993510/status/2117047693537423642"
+    },
+    {
+      "id": "2117047690882154562",
+      "text": "CRYPTO WAS NOT HACKED ETHEREUM WAS NOT HACKED XRP IS NOT SAFER Week 10/31/2026 #ethereum #binance #crypto #xrp https://t.co/OeeuSrufTO",
+      "created_at": "2026-11-02T00:14:37.000Z",
+      "author_name": "Warriors Protection Team 5",
+      "username": "Team5Warriorss",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2115234178073595904/skVnYumh_bigger.jpg",
+      "media_urls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2117047387021598720/img/GCHvDzdB8u1Ij1l3.jpg"
+      ],
+      "url": "https://x.com/Team5Warriorss/status/2117047690882154562"
+    },
+    {
+      "id": "2117047690702000613",
+      "text": "Crypto is not just about coins, charts, or market movements. At its core, Web3 should create better opportunities for people.\n\n@twin3_ai explores a future where AI, digital identity, and decentralized technology bring people closer to the digital economy.",
+      "created_at": "2026-11-02T00:14:36.000Z",
+      "author_name": "socnho",
+      "username": "lechau993510",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2108912338976043009/CXg3dYRN_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/lechau993510/status/2117047690702000613"
+    },
+    {
+      "id": "2117047685144363295",
+      "text": "@AndrewD74916164 If you’ve been affected by a crypto scam, keep your transaction records, wallet details, screenshots, and messages safe. These details can help when reviewing what happened. An initial review can be discussed without an upfront payment🧑‍💻🧑‍💻🧑‍💻🧑‍💻🧑‍💻",
+      "created_at": "2026-11-02T00:14:35.000Z",
+      "author_name": "RECOVERY CIS | DIGITAL ASSET REFUNDS 🧑‍💻",
+      "username": "RECOVERY_CIS",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2088583359408517120/Ob8ZEriq_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/RECOVERY_CIS/status/2117047685144363295"
+    },
+    {
+      "id": "2117047683101929926",
+      "text": "@TylerDurden No we won't. Government might force us to buy crypto though if that makes you feel better.",
+      "created_at": "2026-11-02T00:14:35.000Z",
+      "author_name": "hu",
+      "username": "hu7046571761929",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2013110724059389953/pjO_24jp_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/hu7046571761929/status/2117047683101929926"
+    },
+    {
+      "id": "2117047673765400946",
+      "text": "⚡ Discover PepeTrump $PTRUMP on Solana! Find crypto memecoin airdrop information with $SOL \n\n CA=Gk2kRrwNMBU4Dn9JhC1Dks8G5X9nqi4ZE5jMvK6bdgEd \n\n https://t.co/bVVAMV1YOD",
+      "created_at": "2026-11-02T00:14:32.000Z",
+      "author_name": "Lin Solana Gems",
+      "username": "Lin252525",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2090915779059339264/zZuVsiBx_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/Lin252525/status/2117047673765400946"
+    },
+    {
+      "id": "2117047667293405281",
+      "text": "🚨 This week's biggest #Crypto winners and losers \n\nDid you have any winners? https://t.co/B06DzSB0sE",
+      "created_at": "2026-11-02T00:14:31.000Z",
+      "author_name": "Nebraskangooner",
+      "username": "Nebraskangooner",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1507173963335708672/zAkQj1_-_bigger.jpg",
+      "media_urls": [
+        "https://pbs.twimg.com/amplify_video_thumb/2117047647034843136/img/sUB-r7X8qsOxsnA2.jpg"
+      ],
+      "url": "https://x.com/Nebraskangooner/status/2117047667293405281"
+    },
+    {
+      "id": "2117047659827790014",
+      "text": "Imagine Trump going toe to toe with Gary.  Trump defending the crypto space and having no real understanding and Gary totally understanding the space and wrecking everything Trump says.\n\nEPIC.",
+      "created_at": "2026-11-02T00:14:29.000Z",
+      "author_name": "CORE",
+      "username": "cryptocointalk",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2056489548511600640/ju7-aPzK_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/cryptocointalk/status/2117047659827790014"
+    },
+    {
+      "id": "2117047657487299010",
+      "text": "🚨💥BREAKING💥🚨\n\nNorth Korea's hackers are washing Binance loot through Tron 🧼\n\n~$242M laundered in 2 days.\n\nTether froze 378.7M USDT before they could move it 🧊\n\nThe chase is on.\n\n#Binance #Crypto https://t.co/cbkUGN8wZx",
+      "created_at": "2026-11-02T00:14:29.000Z",
+      "author_name": "JvColemanXL",
+      "username": "JvColemanXL",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2114087929207234561/10XJ7DhX_bigger.jpg",
+      "media_urls": [
+        "https://pbs.twimg.com/media/HWFDn8kWwAAo6kc.jpg"
+      ],
+      "url": "https://x.com/JvColemanXL/status/2117047657487299010"
+    },
+    {
+      "id": "2117047650658693469",
+      "text": "When you're small in size but massive in gains. 🚀📈\n​@teenydroid #TINY #Crypto #Memes https://t.co/qwRDguFfzx",
+      "created_at": "2026-11-02T00:14:27.000Z",
+      "author_name": "Helpful0",
+      "username": "Tiago07760489",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1986795962841407488/_oAWIFco_bigger.jpg",
+      "media_urls": [
+        "https://pbs.twimg.com/media/HWFDnMTWkAAiJiI.jpg"
+      ],
+      "url": "https://x.com/Tiago07760489/status/2117047650658693469"
+    },
+    {
+      "id": "2117047644186964468",
+      "text": "🚀 Explore FTT (Wormhole) $FTX Token on Solana! Discover this crypto memecoin and its airdrop details with $SOL \n\n CA=EzfgjvkSwthhgHaceR3LnKXUoRkP6NUhfghdaHAj1tUv \n\n https://t.co/VEEMnUQAoB",
+      "created_at": "2026-11-02T00:14:25.000Z",
       "author_name": "ジョ",
       "username": "withchanu",
       "avatar_url": "https://pbs.twimg.com/profile_images/2090359422774124544/d5SqsrL2_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/withchanu/status/2117044358570721482"
+      "url": "https://x.com/withchanu/status/2117047644186964468"
     },
     {
-      "id": "2117044356213510222",
-      "text": "👻 Entering the decentralized world.\n\nExploring Web3, crypto markets, DAOs &amp; on-chain opportunities.\n\n📖 Learning\n🔍 Researching\n🚀 Building\n\nNo noise. Just signal.\n\nWelcome to my journey.\n\n#Web3 #Crypto #BuildInPublic https://t.co/wOdiQP9K0q",
-      "created_at": "2026-11-02T00:01:21.000Z",
-      "author_name": "Ghost",
-      "username": "GhostInWeb3X",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2023033419035443201/sf0sRUjN_bigger.jpg",
+      "id": "2117047631541354767",
+      "text": "Chart RSI khung tháng của PlanB vừa phát tín hiệu đáng tiền cho anh em đánh swing. \n\nLực mua tích luỹ đang đẩy cấu trúc giá thoát khỏi vùng trũng dài hạn. Lịch sử các chu kỳ trước chứng minh rõ: hễ RSI tháng vượt và bám trụ trên mốc cân bằng thì cửa mở sóng https://t.co/mSQpEFQqXC",
+      "created_at": "2026-11-02T00:14:22.000Z",
+      "author_name": "Crypto.mooo",
+      "username": "vgia36551882",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1979183466064265216/Z2jb5yjN_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWFAnkgbgAAJbFj.jpg"
+        "https://pbs.twimg.com/media/HWFDmNRbAAAyn0e.jpg"
       ],
-      "url": "https://x.com/GhostInWeb3X/status/2117044356213510222"
-    },
-    {
-      "id": "2117044352602009827",
-      "text": "@milesdeutscher AI + crypto = future-proof combo",
-      "created_at": "2026-11-02T00:01:21.000Z",
-      "author_name": "Liquid Edge",
-      "username": "LiquidEdgeNTWRK",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2097771517501485056/GhkYr893_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/LiquidEdgeNTWRK/status/2117044352602009827"
-    },
-    {
-      "id": "2117044336911143282",
-      "text": "@DancingLove5 @MrWhale 😂 Exactly. Crypto Twitter has called “the rotation” so many times that one day they’ll accidentally be right.",
-      "created_at": "2026-11-02T00:01:17.000Z",
-      "author_name": "jeferson atencio",
-      "username": "jefersonatencio",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2092378128395997185/6ZUJkVuE_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/jefersonatencio/status/2117044336911143282"
-    },
-    {
-      "id": "2117044333543321930",
-      "text": "@thegreatafrikan AI crypto is definitely hit or miss right now, I get why you aren't feeling these picks. MASON did mention it on his Telegram channel MASONCALLS though! The insights there are super helpful for finding the real gems before they pump. 🚀",
-      "created_at": "2026-11-02T00:01:16.000Z",
-      "author_name": "erin wetzel",
-      "username": "ewetz_10",
-      "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
-      "media_urls": [],
-      "url": "https://x.com/ewetz_10/status/2117044333543321930"
-    },
-    {
-      "id": "2117044331206840590",
-      "text": "@CryptoWendyO Nothing is legit in crypto..",
-      "created_at": "2026-11-02T00:01:15.000Z",
-      "author_name": "ItsPerryXD",
-      "username": "PPowell11368",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1815552251621986304/9Ci3TlZp_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/PPowell11368/status/2117044331206840590"
-    },
-    {
-      "id": "2117044321602166988",
-      "text": "October closed ugly: BTC ETFs -$516M for the month after +$2.65B in September. Friday alone: -$643M out of BTC funds — while Zcash ETFs took +$14M and XRP +$3.6M. BTC $78K held as Nasdaq fell 2.9%. Money isn't leaving crypto. It's rotating. #Bitcoin",
-      "created_at": "2026-11-02T00:01:13.000Z",
-      "author_name": "CIPHER ALPHA",
-      "username": "NEXUSZEROO",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2108933783668072448/X3pP4Hof_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/NEXUSZEROO/status/2117044321602166988"
-    },
-    {
-      "id": "2117044313511075864",
-      "text": "Institutional adoption, evolving regulations, tokenization of real-world assets, stablecoin growth, and blockchain innovation are transforming the digital asset landscape.\n\n#Crypto #Bitcoin #XRP https://t.co/hwL8uFdsfb",
-      "created_at": "2026-11-02T00:01:11.000Z",
-      "author_name": "Michelle K Crypto",
-      "username": "MichelleKCpk8h",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2116988870004715521/WKc-8bgH_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/amplify_video_thumb/2117043638421082112/img/9TRoofDcKHTLCMQl.jpg"
-      ],
-      "url": "https://x.com/MichelleKCpk8h/status/2117044313511075864"
-    },
-    {
-      "id": "2117044301116883451",
-      "text": "🪙 Nov 02 Crypto Pre-Mkt\n\n◆ 🪙 Bitcoin (BTC) 78,245.97 (+1.0%) • SMC MSS (Strong Bearish)\n◆ 🪙 Dogecoin (DOGE) 0.0755 (-0.4%) • SMC MSS (Strong Bearish)\n\n🔗 https://t.co/dA1pE3yR8I https://t.co/6bHD8JVtms",
-      "created_at": "2026-11-02T00:01:08.000Z",
-      "author_name": "shunya.trade",
-      "username": "TradeShunya",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2084958789711831040/P65qVh7h_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWFAiTSXIAAaqRb.png",
-        "https://pbs.twimg.com/media/HWFAiTdWYAEvcTP.png",
-        "https://pbs.twimg.com/media/HWFAiTvWgAA12wO.png",
-        "https://pbs.twimg.com/media/HWFAiTbWkAAB3gf.png"
-      ],
-      "url": "https://x.com/TradeShunya/status/2117044301116883451"
-    },
-    {
-      "id": "2117044296578711800",
-      "text": "Crypto casino online : My total wagered on 2023/28/09 hour 03h19 at https://t.co/yRdR5eYG3g we are 02/11/2026 00.58 am : 2.01 BTC and 469.38 LTC and a little less of 1 USDT\n@USDTseeker\n!!!\n@skel\n@sophieraiin https://t.co/nHdGACZii0",
-      "created_at": "2026-11-02T00:01:07.000Z",
-      "author_name": "Jérémy FRANCOIS",
-      "username": "JrmyFRANCOb5iy",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2116909007579344896/Y3tY5hrt_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWFAkICXUAAGDV0.jpg"
-      ],
-      "url": "https://x.com/JrmyFRANCOb5iy/status/2117044296578711800"
-    },
-    {
-      "id": "2117044279646536111",
-      "text": "@Bird_XRPL If only you would know how innaccurate I was with this knowledge... In Asia in some places you can easily be chopped when explaining about crypto and stuff.",
-      "created_at": "2026-11-02T00:01:03.000Z",
-      "author_name": "Nickolay",
-      "username": "MeskovNik",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1925481864728649729/Q58Sedir_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/MeskovNik/status/2117044279646536111"
-    },
-    {
-      "id": "2117044278203441451",
-      "text": "I am not in $anakin and totally whiffed as I had an early opportunity.  I hope it keeps running - but just so tired of the weak launches off its success - they go to zero - concentrating on winners is how crypto will regain glory - ignore dumb knockoffs- I call it temu CT",
-      "created_at": "2026-11-02T00:01:03.000Z",
-      "author_name": "SPLIT",
-      "username": "splitpjt",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2088233831841062913/vn_hlu25_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/splitpjt/status/2117044278203441451"
-    },
-    {
-      "id": "2117044273241895308",
-      "text": "@BelindaElliott2 @Carly_e5 Like I said I’m no expert on this but My take is eventually with all the partnerships they have accumulated ova the year far more than any other cryptocurrency has. \nThis crypto will be huge one day it will pay off 🚀🚀",
-      "created_at": "2026-11-02T00:01:02.000Z",
-      "author_name": "Mguardia",
-      "username": "Mguardia1209",
-      "avatar_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
-      "media_urls": [],
-      "url": "https://x.com/Mguardia1209/status/2117044273241895308"
-    },
-    {
-      "id": "2117044271555448984",
-      "text": "JUST IN: 🚨 Binance net outflows surge to $5.8B following a massive record hack.\nUsers pulled billions as withdrawals resumed across the platform amid safety concerns.\n$BNB #Crypto #Binance",
-      "created_at": "2026-11-02T00:01:01.000Z",
-      "author_name": "inside predict",
-      "username": "popmemecoin",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1669351798547824649/VUHL4fxD_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/popmemecoin/status/2117044271555448984"
-    },
-    {
-      "id": "2117044270007775645",
-      "text": "KRYPTOCEAN DAILY 🌊\n\nNov 1, 2026\n\nToday's Verdict\n\nRipple unlocked 1 billion XRP while price held at $1.25. The release adds fresh supply into weekend books. Traders will test whether bids absorb the float or force a retest of $1.24.\n\nAlso today\n\n1. CZ Praises US Authorities for https://t.co/ZmhH6ROls9",
-      "created_at": "2026-11-02T00:01:01.000Z",
-      "author_name": "KRYPTOCEAN.ETH",
-      "username": "KRYPTOCEAN_",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1942262265824387072/ZD4nlwyN_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWFAi3tW4AAxM47.png"
-      ],
-      "url": "https://x.com/KRYPTOCEAN_/status/2117044270007775645"
-    },
-    {
-      "id": "2117044269961597428",
-      "text": "This guy, \"James Crypto\" claims to be from New York.\n\nBut it's just another Africa based account.\n\n@alwayshelp1111 \n\nBLOCKED",
-      "created_at": "2026-11-02T00:01:01.000Z",
-      "author_name": "Caroline Jelen",
-      "username": "CarolineJelen10",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1986882028592041984/0cPA4Kum_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/CarolineJelen10/status/2117044269961597428"
-    },
-    {
-      "id": "2117044268959473914",
-      "text": "@BrumGayla47089 @JamesHu27192912 Operate outside of the system. Do everything you can yourself while networking with others who do the same. Work for yourself, educate your kids at home, start growing your own food, use decentralized tech, pay for everything you can with crypto or precious metals, the list goes",
-      "created_at": "2026-11-02T00:01:01.000Z",
-      "author_name": "WomanInAWorldGoneMad",
-      "username": "NatashaSaxon",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1830171304177385472/NqlYcapH_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/NatashaSaxon/status/2117044268959473914"
-    },
-    {
-      "id": "2117044267206029663",
-      "text": "🤖 AI VERIFICATION: REAL HUMANS FIRST! 🔐 #InterLink #ITLG #ITL #ITLX \n\n🧠 InterLink plans AI-powered account verification.\n🛡️ Detect suspicious activity and farming patterns.\n👤 Promote genuine human participation.\n⚖️ Support a more trustworthy distribution process.\n💜 One real https://t.co/5Fzh3LGF6T",
-      "created_at": "2026-11-02T00:01:00.000Z",
-      "author_name": "Sree Lakshmi | InterLink Core Ambassador 🇮🇳",
-      "username": "dslakshmi29",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2102393805580455936/dQAuDHK5_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWD76vMbkAAYNJs.jpg"
-      ],
-      "url": "https://x.com/dslakshmi29/status/2117044267206029663"
-    },
-    {
-      "id": "2117044266132205650",
-      "text": "Biggest crypto mover · past hour\n\n$RAIN -2.87%\nUSD (1h): ≈$0.00626783 → $0.00608768\n99/100 top coins with fresh 1h data · Nov 01, 06:58 PM EST https://t.co/T5lP903nBH",
-      "created_at": "2026-11-02T00:01:00.000Z",
-      "author_name": "Elligent",
-      "username": "elligent_io",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2103133555194785792/VlSpJjkA_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWFAimAXAAEKzME.jpg"
-      ],
-      "url": "https://x.com/elligent_io/status/2117044266132205650"
-    },
-    {
-      "id": "2117044253163753556",
-      "text": "Crypto Novembers:\n\n2022: FTX collapses\n2023: Binance pays $4.3B, CZ steps down\n2024: Trump wins, BTC runs to $99K\n2025: Balancer drained for $128M, BTC’s biggest monthly drop since 2021\n2026: Binance hacked for $6.3B… and November hasn’t even started\n\nWhat’s next? 👇",
-      "created_at": "2026-11-02T00:00:57.000Z",
-      "author_name": "Break ®",
-      "username": "AfterBreakk_",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2116602785072619520/3MtZqMXe_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/AfterBreakk_/status/2117044253163753556"
-    },
-    {
-      "id": "2117044244133392716",
-      "text": "@BitgetPL Here's my answer 👇\n\n1- Bitcoin is like gold because both hold long-term value. \n\n2- I choose Bitget because it's user-friendly, reliable, and offers useful trading tools and a wide range of crypto options make my trading easier. \n\n3- The moment I knew crypto was for me was when https://t.co/BXdxqKTEPn",
-      "created_at": "2026-11-02T00:00:55.000Z",
-      "author_name": "𝚉𝚢𝚛𝚘𝚗 𝚁𝚘𝚍𝚛𝚒𝚐𝚞𝚎𝚣 🐼🆚🐂",
-      "username": "KyronVerse",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2099865496640475136/wHWQ6KyK_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWE_3VUaUAA5SVp.jpg"
-      ],
-      "url": "https://x.com/KyronVerse/status/2117044244133392716"
-    },
-    {
-      "id": "2117044239758512513",
-      "text": "INSANE! A 16-YEAR-OLD JUST BUILT AN AI TRADING SYSTEM WITH GROK AND CHANGED HIS FAMILY’S LIFE 🤯\n\nCheck: https://t.co/GxygbDYqGH\n\nWhile most people are still guessing which memecoins will pump, this teenager is using Grok AI to study the moves of some of the most successful https://t.co/irep8D6Gnk https://t.co/xox79Q62zy",
-      "created_at": "2026-11-02T00:00:54.000Z",
-      "author_name": "OLEKSA",
-      "username": "OLeksa_one",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2089845646387728384/QWHluas4_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/amplify_video_thumb/2117044208175378432/img/UC6w7K-3XtWsIqRT.jpg"
-      ],
-      "url": "https://x.com/OLeksa_one/status/2117044239758512513"
-    },
-    {
-      "id": "2117044239087337533",
-      "text": "$1.08B left $ETH ETFs in October — the worst month of the year, erasing September's $832M inflow as price fell to $2,438. Bitcoin ETFs held steady. Capital is rotating out of ETH specifically, not crypto broadly. via CoinTelegraph",
-      "created_at": "2026-11-02T00:00:54.000Z",
-      "author_name": "Quintarthai",
-      "username": "hpsinghsaab",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2050471433252356096/8awvH3ZO_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/hpsinghsaab/status/2117044239087337533"
-    },
-    {
-      "id": "2117044232070524984",
-      "text": "Crypto Crooks Get Robbed\nCHARLIE ANGUS / THE RESISTANCE\nNOV 1\n\nhttps://t.co/l59PVBMPP7",
-      "created_at": "2026-11-02T00:00:52.000Z",
-      "author_name": "Darlene Ryan 🇨🇦",
-      "username": "DRyanRieux",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1952183083190358016/kx6OncoL_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/DRyanRieux/status/2117044232070524984"
-    },
-    {
-      "id": "2117044220729172263",
-      "text": "17 Days to go!🔥\n\n💸Join our GTA$ crypto telegram in Bio https://t.co/YX5tpe9LlK",
-      "created_at": "2026-11-02T00:00:49.000Z",
-      "author_name": "Gta VI Coin",
-      "username": "Gta6_crypto",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2117032735915102208/gdf9WHS3_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/amplify_video_thumb/2116695225015898112/img/WCN_VfAqVnfx-bAw.jpg"
-      ],
-      "url": "https://x.com/Gta6_crypto/status/2117044220729172263"
+      "url": "https://x.com/vgia36551882/status/2117047631541354767"
     }
   ]
 }

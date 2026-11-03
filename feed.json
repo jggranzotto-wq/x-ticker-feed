@@ -1,279 +1,270 @@
 {
-  "updated_at": "2026-11-03T01:02:31Z",
+  "updated_at": "2026-11-03T01:18:17Z",
   "query": "crypto",
   "posts": [
     {
-      "id": "2117422046976332204",
-      "text": "Muốn nạp thẻ WebWisePay mà ví không có BNB, ETH hay TRX để trả phí gas? Yên tâm: chế độ gasless trừ phí mạng bằng USDT khi nạp thẻ từ ví WebWisePay. Tải app ở bình luận 👇\n\nBạn hay nạp USDT qua mạng nào?\n\n#DigiU #WebWisePay #FinTech #Crypto #AI #Blockchain https://t.co/ebLqqCB0tA",
-      "created_at": "2026-11-03T01:02:10.000Z",
-      "author_name": "VT Official 🇻🇳 DIGIU",
-      "username": "anhvanlaanh1986",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1835588134958198784/v_pKjicI_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWKYG-5awAA6BH_.jpg"
-      ],
-      "url": "https://x.com/anhvanlaanh1986/status/2117422046976332204"
-    },
-    {
-      "id": "2117422042295259631",
-      "text": "@lea7hersm17h You don’t need a fully custom cart.\nKeep normal fiat checkout and add a non-custodial crypto option that pays to an address you control, then use a webhook to mark the order paid.\nIf your agent is building it, that’s the lightweight version - no middleman holding the funds.\nAre",
-      "created_at": "2026-11-03T01:02:09.000Z",
-      "author_name": "Chris",
-      "username": "manatee_api",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2117411765466091520/grq76ADl_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/manatee_api/status/2117422042295259631"
-    },
-    {
-      "id": "2117422032358879533",
-      "text": "🚨 Night Report: Tesla, NVDA, Starlink, Solana, Bitcoin, Claude, OpenClaw &amp; Hermes (Nov 2, 2026) 🌙\n\n🔋 Tesla: $403.82 (+1.0%, 4:00 PM ET close) — Reuters reports Tesla's Europe registrations rose again as Chinese rivals gain ground.\n\n🟢 NVIDIA: $202.06 (-1.3%, 4:00 PM ET close)",
-      "created_at": "2026-11-03T01:02:06.000Z",
-      "author_name": "Phil | DevilDog Saga",
-      "username": "DevilDogSaga",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2097640949673607169/THWtYT2d_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/DevilDogSaga/status/2117422032358879533"
-    },
-    {
-      "id": "2117422017813086387",
-      "text": "@cz_binance Binance will be shutdown soon you destroyed crypto now it’s binance turn",
-      "created_at": "2026-11-03T01:02:03.000Z",
-      "author_name": "Htrading69 👊🫵🇩🇿",
-      "username": "HellCrypto69",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1886299611586781184/hmQbP3Yy_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/HellCrypto69/status/2117422017813086387"
-    },
-    {
-      "id": "2117422011727204815",
-      "text": "@candystrayboy THE TRUMP RECEIPTS *updated daily*\nThe running record of Trump 2.0 that America cannot afford to forget.\n\nUpdate date: November 2, 2026\nTotal receipts: 752\n\n• 11/1/26: Judge tosses DOJ Alaska election suit; appeal pending\n• 11/1/26: DOJ seeks contempt probe of CHIRLA voter-list https://t.co/7dxKF35WoA",
-      "created_at": "2026-11-03T01:02:02.000Z",
+      "id": "2117426025239818574",
+      "text": "@Gianl1974 THE TRUMP RECEIPTS *updated daily*\nThe running record of Trump 2.0 that America cannot afford to forget.\n\nUpdate date: November 2, 2026\nTotal receipts: 752\n\n• 11/1/26: Judge tosses DOJ Alaska election suit; appeal pending\n• 11/1/26: DOJ seeks contempt probe of CHIRLA voter-list https://t.co/vctx55Wpy4",
+      "created_at": "2026-11-03T01:17:58.000Z",
       "author_name": "Randy Ferrell",
       "username": "randyferrell",
       "avatar_url": "https://pbs.twimg.com/profile_images/1988768125735575552/cVrizWFy_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/randyferrell/status/2117422011727204815"
+      "url": "https://x.com/randyferrell/status/2117426025239818574"
     },
     {
-      "id": "2117422010678628497",
-      "text": "Australia had about 20 crypto ATMs in 2019. Now there are 2,000+.\n\n☑️ A$5,000 cap on cash in or out\n☑️ Scam warnings on every ATM\n☑️ AUSTRAC shut 96 in August\n\nIf someone tells you to pay them at a crypto ATM, stop. It’s a scam. https://t.co/1QzzCiGFVS",
-      "created_at": "2026-11-03T01:02:01.000Z",
-      "author_name": "Superteam Australia",
-      "username": "SuperteamAU",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2092429157733154816/E0ZwnZxc_bigger.jpg",
+      "id": "2117426013764468967",
+      "text": "AI ช่วยจัดการงานเกี่ยวกับกระเป๋าคริปโตได้ แต่ใครควรเป็นคนตัดสินใจขั้นสุดท้าย? 🤖🔐\n\nโพสต์นี้ยกความเห็นของ @rojcyk จาก @Trezor ว่า เมื่อต้องให้ AI agent เข้ามาทำงานร่วมกับ crypto wallet ขั้นตอนสุดท้ายควรเป็นลายเซ็นของมนุษย์ https://t.co/TeX2MBnz35 https://t.co/8QupCHhTP1",
+      "created_at": "2026-11-03T01:17:56.000Z",
+      "author_name": "👩‍🌾0xAirdropFarmer",
+      "username": "0xairdropfarmer",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1984517887177211904/4pbevlGq_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWKYGPkXwAA1Fi_.jpg"
+        "https://pbs.twimg.com/media/HWKbvJ2bcAE9w-e.jpg"
       ],
-      "url": "https://x.com/SuperteamAU/status/2117422010678628497"
+      "url": "https://x.com/0xairdropfarmer/status/2117426013764468967"
     },
     {
-      "id": "2117422004844331344",
-      "text": "🇲🇦#Morocco banned #Bitcoin🕊️/cryptocurrency in 2017, yet adoption has grown significantly, with an estimated 6 million Moroccans—about 16% of the population—owning or using #BTC/crypto by 2024, reflecting a 60% increase over five years. Despite the ban, #Morocco ranked 14th https://t.co/G2WA3X4Ozl",
-      "created_at": "2026-11-03T01:02:00.000Z",
-      "author_name": "₿itcoin Xoe 🇭🇹",
-      "username": "Bitcoin_Xoe",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1478227198427418629/AZXwLzMc_bigger.jpg",
+      "id": "2117426004226679035",
+      "text": "@DucCryptoX Dùng độ lì của crypto làm thước đo cho cổ phiếu AI nghe hơi gượng",
+      "created_at": "2026-11-03T01:17:53.000Z",
+      "author_name": "Mara Voss",
+      "username": "mara_research",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2107493758866702337/RNCwQ_GE_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/mara_research/status/2117426004226679035"
+    },
+    {
+      "id": "2117426001554686289",
+      "text": "The defining characteristic of crypto for the past 12+ months has been the handful of investable coins tied to major trends outside of the crypto economy keep pulling away from the rest. On smaller timeframes there's still some positive correlation but they aren't trending like",
+      "created_at": "2026-11-03T01:17:53.000Z",
+      "author_name": "Luke Martin",
+      "username": "VentureCoinist",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1824892201551183872/UV1Ajdqn_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/VentureCoinist/status/2117426001554686289"
+    },
+    {
+      "id": "2117425992969187515",
+      "text": "Everyone is busy buying the crypto dip. I’m watching the bigger picture.\n\nWith multiple IPOs hitting the market, liquidity could rotate back into US equities, pulling capital away from crypto.\n\nWouldn’t be surprised to see BTC revisit $75K.\n\nSometimes the best crypto trade short! https://t.co/uB54nu0tfL",
+      "created_at": "2026-11-03T01:17:51.000Z",
+      "author_name": "SailorMan.io",
+      "username": "LpPhotog",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1916827951947235328/ixXeu7VU_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWEU05XX0AAZmAk.png"
+        "https://pbs.twimg.com/media/HWKbt2FbIAAPedj.jpg"
       ],
-      "url": "https://x.com/Bitcoin_Xoe/status/2117422004844331344"
+      "url": "https://x.com/LpPhotog/status/2117425992969187515"
     },
     {
-      "id": "2117422001841127932",
-      "text": "@frogule you didn't specify \"crypto content creator\" so I go for Lex Fridman - he's low time preference, does incredible research and thorough interviews. He provides extra valuable information and saves me time and money every single time he publishes an interview.\n\nI haven't found a",
-      "created_at": "2026-11-03T01:01:59.000Z",
-      "author_name": "damko",
-      "username": "damko",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1849904552067141632/SIsBJORX_bigger.jpg",
+      "id": "2117425987965378631",
+      "text": "@Trenchwalker_io @FungoLabs crypto privacy is the ultimate flex and fungo labs is making it actually fun to be early for once",
+      "created_at": "2026-11-03T01:17:50.000Z",
+      "author_name": "Teazelbtc (Vibecoder arc)",
+      "username": "Teazelbtc",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1981504078329892864/P9Rn2GdL_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/damko/status/2117422001841127932"
+      "url": "https://x.com/Teazelbtc/status/2117425987965378631"
     },
     {
-      "id": "2117421978458153203",
-      "text": "Don't make wallet decisions based on vibes. Look for evidence and context. #Crypto https://t.co/WFtrKMbDiK",
-      "created_at": "2026-11-03T01:01:54.000Z",
-      "author_name": "JackTRX",
-      "username": "JackTRXw01",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2100954309433163776/cbUYImOh_bigger.jpg",
+      "id": "2117425971326329162",
+      "text": "JUST IN: 🚨 Crypto industry faces security crisis after $6.4B Binance hack.\nMarket confronts stark vulnerabilities following the massive multi-billion dollar exploit.\n$BNB #Crypto #Binance",
+      "created_at": "2026-11-03T01:17:46.000Z",
+      "author_name": "inside predict",
+      "username": "popmemecoin",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1669351798547824649/VUHL4fxD_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/JackTRXw01/status/2117421978458153203"
+      "url": "https://x.com/popmemecoin/status/2117425971326329162"
     },
     {
-      "id": "2117421971021643836",
-      "text": "🚀🌎 ZOI NETWORK – DỰ ÁN CRYPTO TỪ HOA KỲ!\n\nBạn đã bao giờ tưởng tượng gửi tiền điện tử trực tiếp giữa các điện thoại thông minh mà không cần kết nối internet chưa?\n\n🔥 Đó chính là tầm nhìn đằng sau ZOI NETWORK!\n\n🇺🇸 THÔNG TIN DỰ ÁN\n\n- Dự án: Zoi Network\n- https://t.co/8TlWQsuGSe",
-      "created_at": "2026-11-03T01:01:52.000Z",
-      "author_name": "Mr LP",
-      "username": "LongPhong39",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1689448009673891840/ZM8AyTw4_bigger.png",
+      "id": "2117425963097108719",
+      "text": "$BTC Bitcoin Price Update 🚀 02:17 UTC\n\n💰 Price: $77062 USD\n  \n📉 24h Change: -1.56633%  \n📊 24h Low:  $76592 | High: $78728 \n\n💵 Market Cap 24h: -1.56633%\n📈 7d Change: -3.81087%\n\n#Bitcoin #BTC #CryptoNews #Crypto #CryptoMarket #Blockchain #HODL #DeFi #Web3 #CryptoCommunity",
+      "created_at": "2026-11-03T01:17:44.000Z",
+      "author_name": "BTC News Bot",
+      "username": "BTC_NewsBot",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1926306087029858304/Hk-xq2PG_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/BTC_NewsBot/status/2117425963097108719"
+    },
+    {
+      "id": "2117425960161288514",
+      "text": "@AnyelaRios7 It only dies if nobody builds fun stuff. We're building. Been building Crypto BalakCity for this exact crowd: a house in the Palacete costs 10 USDT and is paying about 0.32 USDT a day today. Play free in your browser: https://t.co/4URw0T1oNg #BalakCity https://t.co/2vt7vaiR3e",
+      "created_at": "2026-11-03T01:17:43.000Z",
+      "author_name": "Blockman · BalakAPP",
+      "username": "BlockmanBTC",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2052477446348222470/dkOq3kZ6_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWKYDuZbwAAn1km.jpg"
+        "https://pbs.twimg.com/media/HWKbr68WsAAblU7.jpg"
       ],
-      "url": "https://x.com/LongPhong39/status/2117421971021643836"
+      "url": "https://x.com/BlockmanBTC/status/2117425960161288514"
     },
     {
-      "id": "2117421956303880332",
-      "text": "☀️Gm, #Crypto friends.\n👊🐻ZKE is keeping building!\n\n#Bitcoin #ETH #SOL https://t.co/DgZQH3yVN2",
-      "created_at": "2026-11-03T01:01:48.000Z",
-      "author_name": "ZKE Exchange",
-      "username": "zke_com",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1582098206930108416/AA0jOU3u_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWKYCuFbUAAazJz.jpg"
-      ],
-      "url": "https://x.com/zke_com/status/2117421956303880332"
-    },
-    {
-      "id": "2117421935571480741",
-      "text": "@IvanAlv60080336 If you’ve been affected by online fraud or unauthorized crypto activity, there may still be ways to trace transactions and explore recovery options. Avoid anyone asking for upfront fees ⚠️\nI can help explain the process if needed 🤝",
-      "created_at": "2026-11-03T01:01:43.000Z",
-      "author_name": "Gabriel Jones",
-      "username": "Gabrieljones34",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2112680987637227520/opx5pw1a_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/Gabrieljones34/status/2117421935571480741"
-    },
-    {
-      "id": "2117421930114674744",
-      "text": "@Crypt0_Coin $Crypto looks good here ©️ https://t.co/WUaru1D2j0",
-      "created_at": "2026-11-03T01:01:42.000Z",
-      "author_name": "B⬆️",
-      "username": "bastedBC2024",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2089729859132297216/OayVU2Ek_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWKYBjCaAAEB-WX.jpg"
-      ],
-      "url": "https://x.com/bastedBC2024/status/2117421930114674744"
-    },
-    {
-      "id": "2117421909721719125",
-      "text": "You mean to tell me all these crypto bros who hack scam and create these future coins that’s the next bitcoin or better and none of them can get to the bottom of the binance hack 🧐 @BSVtony what happen to Adam back and the btc bros no explanation \nNo cypher punks nothing knows",
-      "created_at": "2026-11-03T01:01:37.000Z",
-      "author_name": "hafpeezy “PzTominaga”",
-      "username": "HAFPINTMUSIC",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1731043738145669120/lIgoyG5R_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/HAFPINTMUSIC/status/2117421909721719125"
-    },
-    {
-      "id": "2117421906844660152",
-      "text": "@rahulxbhumihar @binance Lost crypto? Don’t comment details here.\nSend a private DM with ‘RECOVERY’ for a confidential review. Telegram; @ ultimatehjerry",
-      "created_at": "2026-11-03T01:01:37.000Z",
-      "author_name": "ULTIMATE HACKER JERRY",
-      "username": "ultimateHqckerJ",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1994659216825475072/2c1BOKsh_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/ultimateHqckerJ/status/2117421906844660152"
-    },
-    {
-      "id": "2117421889677336916",
-      "text": "@pepfanatics lol insane - if everyone just didn’t use merchants people would figure out how to use crypto or buy what they can afford with Zelle/venmo",
-      "created_at": "2026-11-03T01:01:32.000Z",
-      "author_name": "NovaForge labs",
-      "username": "NovaForgeLab",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2094526402330849280/olYHUgWA_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/NovaForgeLab/status/2117421889677336916"
-    },
-    {
-      "id": "2117421889245049292",
-      "text": "กองทุนได้เท่าไร ไม่ได้แปลว่านักลงทุนจะได้เท่านั้น งานวิจัย Mind the Gap ของ Morningstar พบว่าเงินของนักลงทุนได้น้อยกว่ากองทุนราว 1.2% ต่อปี และไม่ใช่เพราะค่าธรรมเนียม\n\nJeff Ptak, Managing Director ของ Morningstar Research Services อธิบายในรายการ Money Matters ว่า total return https://t.co/ky8ARhPSy5",
-      "created_at": "2026-11-03T01:01:32.000Z",
-      "author_name": "Natto",
-      "username": "Natto2936",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2106620865354084352/7x2hlIPn_bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWKX_KjW0AEEKNw.jpg"
-      ],
-      "url": "https://x.com/Natto2936/status/2117421889245049292"
-    },
-    {
-      "id": "2117421886187401391",
-      "text": "Someone should tell solana:METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m that crypto is supposed to be down right now. \n\nMust have missed the memo.",
-      "created_at": "2026-11-03T01:01:32.000Z",
-      "author_name": "Drippini.sol",
-      "username": "0xDrippini",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1863352194277285889/Qz7uxTTP_bigger.jpg",
-      "media_urls": [],
-      "url": "https://x.com/0xDrippini/status/2117421886187401391"
-    },
-    {
-      "id": "2117421880596455494",
-      "text": "@AyannaPressley @AbdulElSayed THE TRUMP RECEIPTS *updated daily*\nThe running record of Trump 2.0 that America cannot afford to forget.\n\nUpdate date: November 2, 2026\nTotal receipts: 752\n\n• 11/1/26: Judge tosses DOJ Alaska election suit; appeal pending\n• 11/1/26: DOJ seeks contempt probe of CHIRLA voter-list https://t.co/7dxKF35WoA",
-      "created_at": "2026-11-03T01:01:30.000Z",
+      "id": "2117425956780441735",
+      "text": "@FCentinello THE TRUMP RECEIPTS *updated daily*\nThe running record of Trump 2.0 that America cannot afford to forget.\n\nUpdate date: November 2, 2026\nTotal receipts: 752\n\n• 11/1/26: Judge tosses DOJ Alaska election suit; appeal pending\n• 11/1/26: DOJ seeks contempt probe of CHIRLA voter-list https://t.co/vctx55Wpy4",
+      "created_at": "2026-11-03T01:17:42.000Z",
       "author_name": "Randy Ferrell",
       "username": "randyferrell",
       "avatar_url": "https://pbs.twimg.com/profile_images/1988768125735575552/cVrizWFy_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/randyferrell/status/2117421880596455494"
+      "url": "https://x.com/randyferrell/status/2117425956780441735"
     },
     {
-      "id": "2117421879333999097",
-      "text": "Bulls still have the edge with the crypto crowd, holding 78% of the past 24 hours.\n\nThat's 8 points under the 50-day average of 86%, so I'm watching a softer bull side than this group usually brings.\n\nBears took the other 22%, a share counted across the whole market rather than https://t.co/Rz2OK5P9rt",
-      "created_at": "2026-11-03T01:01:30.000Z",
-      "author_name": "Rumor",
-      "username": "rumor_io",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2089908312456265728/VZ8LHOSN_bigger.png",
+      "id": "2117425954129838104",
+      "text": "An ancient bronze vessel, a handful of shells, and a simple idea: keep your valuables safe.\n\nFunny how that idea still exists in crypto today.\n\n$ZUBEI https://t.co/YokOHdHKY3",
+      "created_at": "2026-11-03T01:17:41.000Z",
+      "author_name": "zubei",
+      "username": "ZUBEI888",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2107292332488118272/25e1Pduq_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWKX-pNW4AAojBu.jpg"
+        "https://pbs.twimg.com/media/HWKbrLgbgAAFmsS.png"
       ],
-      "url": "https://x.com/rumor_io/status/2117421879333999097"
+      "url": "https://x.com/ZUBEI888/status/2117425954129838104"
     },
     {
-      "id": "2117421876322418771",
-      "text": "Biggest crypto mover · past hour\n\n$BTW -2.40%\nUSD (1h): ≈$0.960173845 → $0.93717\n99/100 top coins with fresh 1h data · Nov 02, 07:59 PM EST https://t.co/xzeMbkJsDF",
-      "created_at": "2026-11-03T01:01:29.000Z",
-      "author_name": "Elligent",
-      "username": "elligent_io",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2103133555194785792/VlSpJjkA_bigger.jpg",
+      "id": "2117425924773744846",
+      "text": "XRP withdrawals are BACK on Binance.\nIf you've been waiting to move your XRP, this is the update you wanted.\nKeeping yours on the exchange or moving it to your own wallet? •°\nStay safe yall\n#Xrp #Binance #XRP #XRPL #Crypto #XRP #Ripple #Swell2026 #XRPL #XRPCommunity\n#XRPArmy https://t.co/zGpiv1YsaF",
+      "created_at": "2026-11-03T01:17:34.000Z",
+      "author_name": "The XRP Insights",
+      "username": "TheXRPinsight",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2105578825039892480/z84iDdrm_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWKX-ZcXwAArldd.jpg"
+        "https://pbs.twimg.com/media/HWKbpv9W0AAcLgN.jpg"
       ],
-      "url": "https://x.com/elligent_io/status/2117421876322418771"
+      "url": "https://x.com/TheXRPinsight/status/2117425924773744846"
     },
     {
-      "id": "2117421876054307263",
-      "text": "Not your average crypto team.\n\nA CEO with experience in Microsoft's Quantum Computing and HoloLens teams.\n\nA CTO who built high scale systems at https://t.co/yPeejCj67Z, ING, and Mollie.\n\nThat's serious technical experience.\n\nThat combination matters because building spatial https://t.co/RHHuemQmDj",
-      "created_at": "2026-11-03T01:01:29.000Z",
-      "author_name": "Habibk.HK",
-      "username": "habibk79",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2071600419797966848/XY_I5KW8_bigger.jpg",
+      "id": "2117425913361007045",
+      "text": "🚨 $2.50 XRP — IS THIS THE CALM BEFORE THE NEXT MOVE?\n\nXRP continues to keep investors watching closely.\n\nIs $2.50 a key level before the next big rally, or are we expecting more volatility?\n\n🔥 What’s your XRP price target for the end of 2026?\n\n#XRP #Ripple #Crypto https://t.co/ZfguaXIom7",
+      "created_at": "2026-11-03T01:17:32.000Z",
+      "author_name": "PauIa Talkscrypto",
+      "username": "mrosidicom",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2117390736836435968/jea0SBD4_bigger.jpg",
       "media_urls": [
-        "https://pbs.twimg.com/media/HWKX9zxa0AAoLg-.jpg"
+        "https://pbs.twimg.com/amplify_video_thumb/2117425864891580418/img/ENkQ3zfsBXlFZB1k.jpg"
       ],
-      "url": "https://x.com/habibk79/status/2117421876054307263"
+      "url": "https://x.com/mrosidicom/status/2117425913361007045"
     },
     {
-      "id": "2117421874560819409",
-      "text": "What's one crypto belief you've changed your mind on?\n\nBest answer gets a reply. Respect to anyone who admits it.",
-      "created_at": "2026-11-03T01:01:29.000Z",
-      "author_name": "Metal Fists",
-      "username": "mf_gundam",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2114063614655021056/5zp75rO1_bigger.jpg",
+      "id": "2117425907715707182",
+      "text": "Crypto has a November habit. Ours is to keep the record public: the launch report and burn address are there to check. https://t.co/4PPFSNWScB https://t.co/fVGddyjT2f",
+      "created_at": "2026-11-03T01:17:30.000Z",
+      "author_name": "$LAPTOP | Hunter Biden's Laptop",
+      "username": "Laptop_Token",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2110820280113238018/r1Mh2H0i_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/mf_gundam/status/2117421874560819409"
+      "url": "https://x.com/Laptop_Token/status/2117425907715707182"
     },
     {
-      "id": "2117421874300715016",
-      "text": "$ascend touching $148K MC — 32.8X TG MOVE 🔥\n\nThe entry should be all you worry about\nTG stays focused on early buys\n🟢DM to join early buyers\n\n8vFdgGFWkKS1euogVW4qmMurdnso8CPrfQNpB4qqpump\n\n #Meme #PumpSwap #PumpFun #Crypto #Solana #LowCaps https://t.co/M5m5TpI7qB",
-      "created_at": "2026-11-03T01:01:29.000Z",
-      "author_name": "MEME Launch ⏱️",
-      "username": "MemeLaunchups",
-      "avatar_url": "https://pbs.twimg.com/profile_images/2101064822666436608/bunKKLV__bigger.jpg",
-      "media_urls": [
-        "https://pbs.twimg.com/media/HWKX98FXYAAxl8n.jpg",
-        "https://pbs.twimg.com/media/HWKX98DXoAAXEQi.jpg"
-      ],
-      "url": "https://x.com/MemeLaunchups/status/2117421874300715016"
-    },
-    {
-      "id": "2117421868475113494",
-      "text": "Crypto vibes are wild today 🔥\n\nBitcoin dips to $76,998, DACITYCOIN spikes 8.8% at $0.0201, while MON, HYPE, SOL, and QNT slide. PENGU, AERO, LIT, PYTH stay flat.\n\nStay sharp—price swings aren’t over.",
-      "created_at": "2026-11-03T01:01:27.000Z",
-      "author_name": "Spare Jacinto",
-      "username": "JacintoSpare12",
-      "avatar_url": "https://pbs.twimg.com/profile_images/1913478924123955200/NcNeGA4t_bigger.jpg",
+      "id": "2117425902279921744",
+      "text": "⚡ Discover UDTF $UDTF on Solana! Explore this memecoin and find crypto airdrop information with $SOL \n\n CA=tEr9nFS3mAU3YEzzeiX7HqYQtYTeCJpk14AhXoApump \n\n https://t.co/QuJ3pP8cwj",
+      "created_at": "2026-11-03T01:17:29.000Z",
+      "author_name": "ＴａｅＴａｅＭｏｎＡｒｔ 🎞️",
+      "username": "LizethMonArt",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2091839371984961536/wrbGVo37_bigger.jpg",
       "media_urls": [],
-      "url": "https://x.com/JacintoSpare12/status/2117421868475113494"
+      "url": "https://x.com/LizethMonArt/status/2117425902279921744"
+    },
+    {
+      "id": "2117425898840535118",
+      "text": "@CoinMarketCap 24/7 interbank settlement is the part that matters here. Banks finally copying the one thing crypto never turned off.",
+      "created_at": "2026-11-03T01:17:28.000Z",
+      "author_name": "DigitalPaperCrypto (GoldMouth)",
+      "username": "Crypto_Ruffneck",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2017823257806667776/zc1fRyTZ_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/Crypto_Ruffneck/status/2117425898840535118"
+    },
+    {
+      "id": "2117425895510048861",
+      "text": "@RichardHanania getting wealthy off services rendered is lame when you can rug pull a crypto coin",
+      "created_at": "2026-11-03T01:17:28.000Z",
+      "author_name": "бобра☢️",
+      "username": "BasedBeaver",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1467724026525233152/iEjfifRN_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/BasedBeaver/status/2117425895510048861"
+    },
+    {
+      "id": "2117425894855680486",
+      "text": "https://t.co/2NzWjuEeo6",
+      "created_at": "2026-11-03T01:17:27.000Z",
+      "author_name": "Spinerazor | o0🎀0o",
+      "username": "Spinerazor1",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2095607219027062784/AVI1AgUV_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/Spinerazor1/status/2117425894855680486"
+    },
+    {
+      "id": "2117425893911953455",
+      "text": "@PoyoEB Crypto might be down bad, but the location is still a win.",
+      "created_at": "2026-11-03T01:17:27.000Z",
+      "author_name": "Onlyonehunter | ETHGas ⛽",
+      "username": "onlyonehunter12",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2080253048664797184/cXFUPm6M_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/onlyonehunter12/status/2117425893911953455"
+    },
+    {
+      "id": "2117425882063413650",
+      "text": "@0xBlockwire @ethan_myshell @myshell_ai @sachi_morikawa I wonder if the next generation of AI researchers will be more open to crypto",
+      "created_at": "2026-11-03T01:17:24.000Z",
+      "author_name": "Hải Nguyễn",
+      "username": "Hai20231987",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2087133400343928832/EyFBoi4U_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/Hai20231987/status/2117425882063413650"
+    },
+    {
+      "id": "2117425879449997476",
+      "text": "@BarackObama @TroyJackson207 THE TRUMP RECEIPTS *updated daily*\nThe running record of Trump 2.0 that America cannot afford to forget.\n\nUpdate date: November 2, 2026\nTotal receipts: 752\n\n• 11/1/26: Judge tosses DOJ Alaska election suit; appeal pending\n• 11/1/26: DOJ seeks contempt probe of CHIRLA voter-list https://t.co/vctx55Wpy4",
+      "created_at": "2026-11-03T01:17:24.000Z",
+      "author_name": "Randy Ferrell",
+      "username": "randyferrell",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1988768125735575552/cVrizWFy_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/randyferrell/status/2117425879449997476"
+    },
+    {
+      "id": "2117425870927237352",
+      "text": "@vidor_solflare this is how you survive crypto winters",
+      "created_at": "2026-11-03T01:17:22.000Z",
+      "author_name": "Gem Of Kingdom",
+      "username": "GemOfKingdom",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2000636052390707216/HS0WxKM4_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/GemOfKingdom/status/2117425870927237352"
+    },
+    {
+      "id": "2117425861486141714",
+      "text": "🌟 Check out Tytron $TYTR on Solana! Get memecoin, crypto and airdrop details with $SOL \n\n CA=4ytizhz37BwwzSDgvRLrwaEUPbpA1Vmv1eAsFR3WCray \n\n https://t.co/yOEW4ztux5",
+      "created_at": "2026-11-03T01:17:19.000Z",
+      "author_name": "Ayoba Sánchez",
+      "username": "ayobadj_dj",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1365237296312762369/LbA6AOen_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/ayobadj_dj/status/2117425861486141714"
+    },
+    {
+      "id": "2117425849029022139",
+      "text": "@AdriansCryptoo @vangrid_io It's crucial to verify links in crypto communities to avoid phishing scams, especially with similar-looking URLs circulating. Stay safe!",
+      "created_at": "2026-11-03T01:17:16.000Z",
+      "author_name": "Bella Quack",
+      "username": "bella_quack",
+      "avatar_url": "https://pbs.twimg.com/profile_images/1996986174112780289/ORyoga4M_bigger.jpg",
+      "media_urls": [],
+      "url": "https://x.com/bella_quack/status/2117425849029022139"
+    },
+    {
+      "id": "2117425812148527458",
+      "text": "New month. Same conviction. 👑\nTwo months left in 2026, and I'm backing XRP all the way to the finish.\nNovember... give us something to talk about.\n#Xrp #Ripple #XRP #XRPL #Crypto #XRP #Ripple #Swell2026 #XRPL #XRPCommunity\n#XRPArmy #MoneyDisrupted #Xrp #Ripple #Crypto #XRPL https://t.co/DixHlgLcdm",
+      "created_at": "2026-11-03T01:17:08.000Z",
+      "author_name": "The XRP Insights",
+      "username": "TheXRPinsight",
+      "avatar_url": "https://pbs.twimg.com/profile_images/2105578825039892480/z84iDdrm_bigger.jpg",
+      "media_urls": [
+        "https://pbs.twimg.com/media/HWKbjJHWgAAuzW7.jpg"
+      ],
+      "url": "https://x.com/TheXRPinsight/status/2117425812148527458"
     }
   ]
 }
